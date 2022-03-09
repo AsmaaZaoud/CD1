@@ -20,5 +20,6 @@
   "homepage": "https://github.com/AsmaaZaoud/CD1#readme",
   "devDependencies": {
     "vuepress": "^1.4.0"
-  }
+  },
+  "dependencies": {}
 }
