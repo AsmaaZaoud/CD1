@@ -6,6 +6,9 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "dev": "start-test docs:dev 8080 cy:open"
   },
   "repository": {
     "type": "git",
