@@ -1,0 +1,7 @@
+{
+  "baseUrl": "http://localhost:8080/triple-tested",
+  "pluginsFile": false,
+  "supportFile": false,
+  "fixturesFolder": false,
+  "projectId": "rroimy"
+}
